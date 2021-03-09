@@ -48,7 +48,7 @@ $type-size-9                : 0.875em;  // ~14px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
+$gray                       : #d7d8db;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
@@ -61,11 +61,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #d0d1e6; ~Purple
+$success-color              : #3182bd; ~Blue
+$warning-color              : #fd8d3c; ~Orange
+$danger-color               : #bd0026; ~Red
+$info-color                 : #016c59; ~Used as link color
 
 /* brands */
 $behance-color              : #1769FF;
