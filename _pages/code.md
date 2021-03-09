@@ -18,8 +18,8 @@ author_profile: true
 
 5. Contrary to my primary hypotheses, the Unmarked and Southern groups did not display between-group differences in their ERP effects. After a reviewer asked whether I had sufficient power to detect a difference, I learned how to calculate Bayes factors, and thought I would share!
 
-```{r bayes_setup, eval = FALSE}
-# Backage for calculating Bayes factors
+```r
+# Package for calculating Bayes factors
 library(BayesFactor)
 
 # Convert variables to factors
