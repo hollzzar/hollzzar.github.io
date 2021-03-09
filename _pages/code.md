@@ -14,4 +14,4 @@ author_profile: true
 3. [This R script](https://github.com/hollzzar/erp-data-scripts/blob/main/1a_group_analysis.R) uses the processed data from MATLAB to run a series of within- and between-group ANOVAs, format the values, and create data tables that can be passed onto the plotting scripts, output to CSV files, and joined with the cleaned behavioral data for correlation analyses. [This R script](https://github.com/hollzzar/erp-data-scripts/blob/main/1b_group_analysis_halves.R) compares the first and second halves of the experiment.
 4. Two additional scripts work together to [set up plotting parameters](https://github.com/hollzzar/erp-data-scripts/blob/main/2_plot_format.R) and [generate butterfly plots](https://github.com/hollzzar/erp-data-scripts/blob/main/3_erp_plots.R). These scripts pull the significance levels of the analyses in each time window and group and adds them to the ERP plots automatically. Here is an example of the final plot from my Southern participant group:
 
-![Southern group butterfly plot](images/SUSE_erp.png)
+![Southern group butterfly plot](/images/SUSE_erp.png)
