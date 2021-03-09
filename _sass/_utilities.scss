@@ -283,8 +283,13 @@ body:hover .visually-hidden button {
     color: $xing-color;
   }
 
-  .ai-orcid-square {
+  .ai-orcid-square,
+  .ai-orcid {
     color: $orcid-color;
+  }
+
+  .fa-graduation-cap{
+    color: $google-plus-color;
   }
 }
 
