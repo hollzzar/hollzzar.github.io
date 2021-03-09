@@ -15,3 +15,17 @@ author_profile: true
 4. Two additional scripts work together to [set up plotting parameters](https://github.com/hollzzar/erp-data-scripts/blob/main/2_plot_format.R) and [generate butterfly plots](https://github.com/hollzzar/erp-data-scripts/blob/main/3_erp_plots.R). These scripts pull the significance levels of the analyses in each time window and group and adds them to the ERP plots automatically. Here is an example of the final plot from my Southern participant group:
 
 ![Southern group butterfly plot](/images/SUSE_erp.png)
+
+5. Contrary to my primary hypotheses, the Unmarked and Southern groups did not display between-group differences in their ERP effects. After a reviewer asked whether I had sufficient power to detect a difference, I learned how to calculate Bayes factors, and thought I would share!
+
+```{r bayes_setup, eval = FALSE}
+# Backage for calculating Bayes factors
+library(BayesFactor)
+
+# Convert variables to factors
+erp_data <- erp_data %>%
+  mutate(ID = as.factor(ID),
+         chlabel = as.factor(chlabel),
+         group = as.factor(group),
+         cond = as.factor(cond))
+```
