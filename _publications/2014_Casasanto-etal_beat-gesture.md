@@ -6,5 +6,5 @@ excerpt: "Performing bimanual or left-handed beat gestures, which are repetitive
 date: 2014-10-01
 venue: 'Journal of Open Source Software'
 paperurl: '/files/2014_Casasanto-etal_beat-gesture.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
+link: 'https://escholarship.org/uc/item/8pw1x0sx'
 ---
