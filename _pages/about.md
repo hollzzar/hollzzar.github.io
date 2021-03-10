@@ -1,9 +1,12 @@
 ---
 permalink: /
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-I am a PhD Candidate in the [Department of Psychology](https://psych.la.psu.edu/graduate/program-areas/cognitive) and affiliated with the [Center for Language Science](https://cls.la.psu.edu/) at The Pennsylvania State University. I work with Dr. Janet G. van Hell in the [Bilingualism and Development (BiLD) Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching.
+# About me
+
+I work with Dr. Janet G. van Hell in the [Bilingualism and Language Development (BiLD) Lab](https://sites.psu.edu/bildlab/) at The Pennsylvania State University, where I primarily study the comprehension of dialectal variation and code-switching with neuropsychological (EEG) and behavioral methods. I am a PhD Candidate in the [Department of Psychology](https://psych.la.psu.edu/graduate/program-areas/cognitive) and affiliated with the [Center for Language Science](https://cls.la.psu.edu/).
+
+# Research
+
+What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; processing accented speech, including both native- and non-native accents; and quantifying cross-linguistic (or cross-variety) distance.
