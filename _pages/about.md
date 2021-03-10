@@ -24,7 +24,7 @@ I received an NSF-funded Partnerships for International Research and Education f
 
 ## Distance
 
-Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an opinion piece with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistcs.
+Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension in bilinguals. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an opinion piece with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistcs.
 
 ## Accent
 
