@@ -8,7 +8,7 @@ I work with Janet van Hell in the [Bilingualism and Language Development (BiLD) 
 
 # Research
 
-What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; mapping lexicons in contact; quantifying cross-variety distance; and processing accented speech. To date, my work on bidialectalism and bilingualism has developed separately, but future work will integrate these foci.
+What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; mapping lexicons in contact; and quantifying cross-variety distance. To date, my work on bidialectalism and bilingualism has developed separately, but future work will integrate these foci.
 
 ## Variation
 
@@ -16,7 +16,7 @@ My primary line of research focuses on processing dialectal variation in syntax.
 
 ## Switching
 
-I am currently working on a language switching project with my advisor, Janet van Hell; Navin Viswanathan (Communication Sciences and Disorders); and Sarah Paterno, a research assistant in the BiLD Lab. We designed a series of online behavioral studies to investigate intra-sentential Spanish-English code-switching detection and comprehension in noise. We will also investigate the effects of pre-switch acoustic-phonetic features in a future EEG study.
+I am currently working on a language switching project with my adviser, Janet van Hell; Navin Viswanathan (Communication Sciences and Disorders); and Sarah Paterno, a research assistant in the BiLD Lab. We designed a series of online behavioral studies to investigate intra-sentential Spanish-English code-switching detection and comprehension in noise. We will also investigate the effects of pre-switch acoustic-phonetic features in a future EEG study.
 
 ## Contact
 
@@ -24,8 +24,4 @@ I received an NSF-funded Partnerships for International Research and Education f
 
 ## Distance
 
-Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension in bilinguals. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an opinion piece with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistcs.
-
-## Accent
-
-Accented speech processing cuts across my other lines of work, particularly variation and switching. I plan to incorporate phonetic variation into future work on Southern dialect processing and language switching costs.
+Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension in bilinguals. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an opinion piece (to appear) with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistics.
