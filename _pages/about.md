@@ -8,4 +8,4 @@ I work with Dr. Janet G. van Hell in the [Bilingualism and Language Development 
 
 # Research
 
-What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; processing accented speech, including both native- and non-native accents; and quantifying cross-linguistic (or cross-variety) distance.
+What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; processing accented speech; mapping lexicons in contact; and quantifying cross-variety distance.
