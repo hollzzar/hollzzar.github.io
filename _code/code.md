@@ -1,11 +1,9 @@
 ---
-layout: archive
-permalink: /code/
-title: "Code"
-author_profile: true
+title: 'From EEG to ERP: Processing pipeline with MATLAB and R'
+date: 2021-03-11
+permalink: /code/Southern-dialect-EEG-ERP
+excerpt: 'Test'
 ---
-
-## From EEG to ERP: Processing pipeline with MATLAB and R
 
 [My lab](https://sites.psu.edu/bildlab/) uses a combined NeuroScan and Brain Vision system with 31 active Ag/AgCl electrodes and two bipolar channels. I developed the processing pipeline presented here for my first EEG/ERP experiment on dialectal variation in syntax (double modal [DM] versus single modal [SM] constructions) in two groups of participants (Unmarked [MAE] and Southern [SUSE]).
 
