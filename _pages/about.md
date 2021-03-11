@@ -8,7 +8,7 @@ I work with Janet van Hell in the [Bilingualism and Language Development (BiLD) 
 
 # Research
 
-What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; mapping lexicons in contact; and quantifying cross-variety distance. To date, my work on bidialectalism and bilingualism have developed separately, but future work will integrate these foci.
+What is the difference between a dialect and a language? This question drives my interests in adaptation to syntactic, phonological, and phonetic variation; language, register, and dialect switching; mapping lexicons in contact; and quantifying cross-variety distance. To date, my lines of research investigating bidialectalism and bilingualism have developed separately, but future work will integrate these foci.
 
 ## Variation
 
