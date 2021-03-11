@@ -26,7 +26,8 @@
       </div>
     {% endif %}
 
-    <!---<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>--->
+    <!---<a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+   	<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>--->
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.collection == 'publications' %}
@@ -34,7 +35,7 @@
       {% elsif post.link %}
       	{{ title }}
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        {{ title }}
       {% endif %}
     </h2>
     
