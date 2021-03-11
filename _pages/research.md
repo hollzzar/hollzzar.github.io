@@ -17,7 +17,7 @@ I am currently working on a language switching project with my adviser, Janet va
 
 ## Contact
 
-I received an NSF-funded Partnerships for International Research and Education fellowship, postponed until 2022 due to COVID-19, to conduct field research with John Lipski (Spanish and Linguistics) on the northern coast of Colombia. My project will translate lab-based methods---including lexical decision, word association, and network science---to an *in situ* study of bilingual language control in Palenquero-Spanish (creole-lexifier) speakers.
+I received an NSF-funded Partnerships for International Research and Education Fellowship, postponed until 2022 due to COVID-19, to conduct field research with John Lipski (Spanish and Linguistics) on the northern coast of Colombia. My project will translate lab-based methods---including lexical decision, word association, and network science---to an *in situ* study of bilingual language control in Palenquero-Spanish (creole-lexifier) speakers.
 
 ## Distance
 
