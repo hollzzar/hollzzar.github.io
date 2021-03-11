@@ -4,6 +4,6 @@ title: "About me"
 author_profile: true
 ---
 
-I am pursuing a dual title PhD in Psychology and Language Science, with a Specialization in Cognitive and Affective Neuroscience, at Penn State. I am in the Cognitive Area of the [Department of Psychology](https://psych.la.psu.edu/graduate/program-areas/cognitive) and affiliated with the [Center for Language Science](https://cls.la.psu.edu/).
+I began my dual title PhD in Psychology and Language Science, with a Specialization in Cognitive and Affective Neuroscience, at The Pennsylvania State University (Penn State) in 2018. I am in the [Cognitive Area](https://psych.la.psu.edu/graduate/program-areas/cognitive) of the Department of Psychology and affiliated with the [Center for Language Science](https://cls.la.psu.edu/). I earned my BA in Psychology, with a minor in Linguistics, from The University of Chicago in 2015 and my MS in Psychology from Penn State in 2020. In between, I worked as a financial analyst supporting fair lending and language access initiatives at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).
 
-I work with Janet van Hell in the [Bilingualism and Language Development (BiLD) Lab](https://sites.psu.edu/bildlab/) at Penn State, where I primarily study the comprehension of dialectal variation and code-switching with neuropsychological (EEG) and behavioral methods.
+At Penn State, I work with Janet van Hell in the [Bilingualism and Language Development (BiLD) Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching. I use neuropsychological (EEG) and behavioral methods to understand how social, linguistic, and cognitive interact during language processing.
