@@ -1,5 +1,6 @@
 ---
 title: 'From EEG to ERP: Processing pipeline with MATLAB and R'
+collection: code
 date: 2021-03-11
 permalink: /code/Southern-dialect-EEG-ERP
 excerpt: 'Test'
