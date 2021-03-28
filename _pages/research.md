@@ -9,7 +9,7 @@ What is the difference between a dialect and a language? This question drives my
 
 ## Variation
 
-My primary line of research focuses on processing dialectal variation in syntax. My Master's thesis, and subsequent manuscript (currently under review), investigated the influences of familiarity and (perceptions of) standardness on the comprehension of Southern United States English. Standardness drove ERP responses, but familiarity drove acceptability and intelligibility judgments. Post-COVID, I plan to bring our mobile EEG system to Southern communities to understand the impacts of immersion and active dialect use on processing.
+My primary line of research focuses on processing dialectal variation in syntax. My Master's thesis, and subsequent manuscript (to appear), investigated the influences of familiarity and (perceptions of) standardness on the comprehension of Southern United States English. Standardness drove ERP responses, but familiarity drove acceptability and intelligibility judgments. Post-COVID, I plan to bring our mobile EEG system to Southern communities to understand the impacts of immersion and active dialect use on processing.
 
 ## Switching
 
