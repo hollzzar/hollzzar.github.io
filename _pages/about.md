@@ -4,7 +4,7 @@ title: "About me"
 author_profile: true
 ---
 
-I am a graduate student in Janet van Hell's [Bilingualism and Language Development Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching. I use neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing. The [research](https://www.hzaharchuk.com/research/) and [publications](https://www.hzaharchuk.com/publications/) pages have more details about my work, interests, and future directions.
+I am a graduate student in Janet van Hell's [Bilingualism and Language Development Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching. I use neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing. The [research](https://www.hzaharchuk.com/research/) and [publications](https://www.hzaharchuk.com/publications/) pages detail my past work, current interests, and future directions.
 
 In addition to my main research agenda, I also enjoy learning new coding and software skills. You can read my [posts](https://www.hzaharchuk.com/year-archive/) on data wrangling, analysis, and visualization in R and MATLAB and my [R Markdown Guide for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/). Outside the lab, I love to cook, knit, play volleyball, and snuggle with my greyhound, [Zuko](/images/zuko.jpeg).
 
