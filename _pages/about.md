@@ -4,9 +4,9 @@ title: "About me"
 author_profile: true
 ---
 
-I began my dual title Ph.D. in Psychology and Language Science, with a Specialization in Cognitive and Affective Neuroscience, at The Pennsylvania State University in 2018. I am in the [Cognitive Area](https://psych.la.psu.edu/graduate/program-areas/cognitive) of the Department of Psychology and affiliated with the [Center for Language Science](https://cls.la.psu.edu/).
+I am a graduate student in Janet van Hell's [Bilingualism and Language Development Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching. I use neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing.
 
-I work with Janet van Hell in the [Bilingualism and Language Development Lab](https://sites.psu.edu/bildlab/), where I primarily study the comprehension of dialectal variation and code-switching. I use neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing.
+I began my dual title Ph.D. in Psychology and Language Science, with a Specialization in Cognitive and Affective Neuroscience, at The Pennsylvania State University in 2018. I am in the [Cognitive Area](https://psych.la.psu.edu/graduate/program-areas/cognitive) of the Department of Psychology and affiliated with the [Center for Language Science](https://cls.la.psu.edu/).
 
 Outside the lab, I love to cook, knit, play volleyball, and snuggle with my greyhound, [Zuko](/images/zuko.jpeg). In addition to these purely for-fun hobbies, I also enjoy learning new coding and software skills. You can check out my  [posts](https://www.hzaharchuk.com/year-archive/) on data wrangling, analysis, and visualization in R and MATLAB and my [R Markdown Guide for Psychology Graduate Students](https://www.hzaharchuk.com/rmarkdown-guide/).
 
