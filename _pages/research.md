@@ -9,7 +9,7 @@ What is the difference between a dialect and a language? This question drives my
 
 ## Variation
 
-My primary line of research focuses on processing dialectal variation in syntax. My Master's thesis, and subsequent manuscript (to appear), investigated the influences of familiarity and (perceptions of) standardness on the comprehension of Southern United States English. Standardness drove ERP responses, but familiarity drove acceptability and intelligibility judgments. Post-COVID, I plan to bring our mobile EEG system to Southern communities to understand the impacts of immersion and active dialect use on processing.
+My primary line of research focuses on processing dialectal variation in syntax. My Master's thesis, and [subsequent manuscript](https://doi.org/10.1016/j.bandl.2021.104949), investigated the influences of familiarity and (perceptions of) standardness on the comprehension of Southern United States English. Standardness drove ERP responses, but familiarity drove acceptability and intelligibility judgments. Post-COVID, I plan to bring our mobile EEG system to Southern communities to understand the impacts of immersion and active dialect use on processing.
 
 ## Switching
 
@@ -21,4 +21,4 @@ I received an NSF-funded Partnerships for International Research and Education F
 
 ## Distance
 
-Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension in bilinguals. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an opinion piece (to appear) with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistics.
+Typological distance affects a variety of linguistic behaviors, including code-switching production, language learning, and online comprehension in bilinguals. I am interested in using network science to quantify the (dis)similarity between different language varieties. I recently wrote an [opinion piece](https://doi.org/10.1016/j.bandl.2021.104977) with Lizz Karuza (Psychology) to advocate for the use of multiplex methods in psycholinguistics.
