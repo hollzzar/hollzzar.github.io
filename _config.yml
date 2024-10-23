@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Holly A. Zaharchuk"
 title_separator          : "-"
 name                     : &name "Holly A. Zaharchuk"
-description              : &description "PhD Candidate"
+description              : &description "Postdoctoral researcher"
 url                      : https://www.hzaharchuk.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hollzzar/hollzzar.github.io"
@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Cognitive Psychology and Language Science"
   pronouns         : "she/her"
-  location         : "University Park, Pennsylvania, USA"
+  location         : "UConn, CT, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=XN7j-40AAAAJ"
-  email            : "hzaharchuk@psu.edu"
+  email            : "holly.zaharchuk@uconn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
