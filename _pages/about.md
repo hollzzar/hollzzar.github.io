@@ -9,7 +9,7 @@ I use a combination of neuroimaging (fMRI), neuromodulation (TMS), and behaviora
 The goal is to understand how therapeutic interventions for stroke rehabilitation can recruit different neural and cognitive resources to improve functional language outcomes.
  
 Before coming to UConn, I completed my Ph.D. in Psychology and Language Science, with a Specialization in Cognitive and Affective Neuroscience, at The Pennsylvania State University. 
-As a graduate student in the Bilingualism and Linguistic Diversity Lab (PI: Dr. Janet van Hell), I used neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing.
+As a graduate student in the [Bilingualism and Linguistic Diversity Lab](https://sites.psu.edu/bildlab/) (PI: Dr. Janet van Hell), I used neuropsychological (EEG) and behavioral methods to understand how cognitive, linguistic, and social factors interact during language processing.
 I earned my M.S. in Psychology from The Pennsylvania State University in 2020 and my B.A. in Psychology, with a minor in Linguistics, from The University of Chicago in 2015. 
 In between my undergraduate and graduate studies, I worked as a financial analyst supporting fair lending and language access initiatives at the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) in Washington, DC. 
 
