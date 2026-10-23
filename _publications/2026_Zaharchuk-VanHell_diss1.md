@@ -1,5 +1,5 @@
 ---
-title: "The effects of exposure variability and similarity on talker-independent adaptation to Spanish-accented English""
+title: "The effects of exposure variability and similarity on talker-independent adaptation to Spanish-accented English"
 collection: publications
 date: 2026-10-01
 paperlink: 'https://doi.org/10.1016/j.jml.2026.104770'
