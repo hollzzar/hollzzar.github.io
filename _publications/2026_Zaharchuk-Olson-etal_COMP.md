@@ -1,0 +1,9 @@
+---
+title: "Measuring age-related differences in phonetic gradiency with the visual analogue scale and eye tracking"
+collection: publications
+date: 2026-03-01
+paperlink: 'https://doi.org/10.1121/10.0042998'
+paperurl: '/files/Zaharchuk-Olson-etal_2026.pdf'
+abstract: 'Listeners vary in their sensitivity to acoustic-phonetic variation. In this study, we explored different ways of measuring such sensitivity. Study 1 used a visual analogue scale (VAS) task that elicited ratings for a set of four phonetic continua. Study 2 used a two-alternative forced choice task with eye tracking, which provided both binary response data and fine-grained fixation data for the same phonetic continua as study 1. In both studies, we asked how patterns of phonetic perception changed over the course of the adult lifespan by comparing a younger adult sample (ages 18-25) to an older adult sample (age 50+). In addition, we conducted several assessments to examine how language skill, hearing acuity, and speech-in-noise perception were associated with individual differences in phonetic categorization. We found that older adults displayed more categorical (as opposed to more gradient) patterns of perception than younger adults, particularly in the VAS task, where age-related differences persisted even after controlling for hearing loss and speech-in-noise perception. There was also evidence of more categorical patterns of perception among older adults in the eye tracking measures. Overall, these data suggest that VAS tasks may be particularly sensitive to both age-related factors and differences in language skill.'
+citation: '<b>Zaharchuk, H. A.</b>, Olson, H. E., Mechtenburg, H., Phillips, M. C., & Myers, E. B. (2026). Measuring age‑related differences in phonetic gradiency with the visual analogue scale and eye tracking. <i>Journal of the Acoustical Society of America</i>, <i>159</i>, 2460-2476.
+---
